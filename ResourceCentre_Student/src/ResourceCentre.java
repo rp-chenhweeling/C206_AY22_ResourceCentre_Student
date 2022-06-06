@@ -96,6 +96,7 @@ public class ResourceCentre {
 	}
 
 	public static void menu() {
+		// HL: Test CI Action for P11
 		ResourceCentre.setHeader("RESOURCE CENTRE APP");
 		System.out.println("1. Display Inventory");
 		System.out.println("2. Add item");
